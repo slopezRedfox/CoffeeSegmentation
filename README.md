@@ -1,3 +1,3 @@
 # Segmentación de instancias de plantas de café
 
-Cada uno de los jupyter notebook anteriores contienen los resultados de los experimentos realizados para la segmentación de plantas de café desde vista areas. La arquitecura usada en cada uno de los notebooks es la que se indica en el nombre de la misma.
+Cada uno de los jupyter notebook anteriores contienen los resultados de los experimentos realizados para la segmentación de plantas de café desde vista areas. La arquitecura usada en cada uno de los notebooks es la que se indica en el nombre de la misma. En la carpeta de **reuslts** se encuentran todos los resultados de los entrenamientos para los diferentes sets de entrenamiento que se emplearon, solo se guardo el JupyterNotebook para todos los entrenamiento excepto el ultimo entrenamiento de la Mask R-CNN R101 DC5 x3 en el que si se guarda el modelo generado, este modelo se guarda en la carpeta **bestResults**.
